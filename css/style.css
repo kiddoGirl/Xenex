@@ -3928,7 +3928,7 @@ footer.site-footer .bottom-footer p {
 ***************************/
 .inner-banner {
   text-align: center;
-  background: #000 url(../img/about-bg.avif) center center no-repeat;
+  background:  url(../img/about-bg.avif) center center no-repeat;
   background-size: cover;
   height: 400px;
   display: flex;
